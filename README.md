@@ -5,6 +5,7 @@
 - 📫 How to reach me:UHM JUST NO
 - 😄 Pronouns: WTH is pronouns? I AM A MALE 💀
 - ⚡ Fun fact: i like gaming
+-in this project i made an encripter and de-cripter
 
 <!---
 Sebi736354/Sebi736354 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
